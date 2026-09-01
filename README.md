@@ -12,6 +12,9 @@ The repository contains the reusable public bot runtime only. It does not
 contain private assistant data, private prompts, runtime state, real IDs,
 tokens, or machine-specific deployment config.
 
+For a concise, shareable installation guide, see the
+[Starter Kit](docs/starter-kit/README.md).
+
 ## What You Can Do
 
 - Run Claude Code or Codex from Telegram private chats or group forum topics.

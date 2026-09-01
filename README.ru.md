@@ -12,6 +12,9 @@ CLI на вашем VPS. Он превращает Telegram в удаленны�
 приватных данных ассистента, приватных промптов, runtime state, реальных ID,
 токенов или машинно-специфичного деплоя.
 
+Короткая инструкция, которую можно сразу отправить коллеге:
+[Starter Kit](docs/starter-kit/README.ru.md).
+
 ## Что Можно Делать
 
 - Запускать Claude Code или Codex из Telegram private chats и group forum
